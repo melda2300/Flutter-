@@ -1,0 +1,12 @@
+void myFunctionWithoutReturn (String input){
+   //Function job
+}
+
+int myFunctionWithReturn (int a){
+int result = a*a;
+return a;
+}
+
+int myFunctionWithoutInput(){
+  print('This function has no input!');
+}
